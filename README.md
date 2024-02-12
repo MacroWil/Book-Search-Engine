@@ -41,3 +41,7 @@ Or, you can email me at macrow.co@gmail.com.
 ## Links
 
 Link to Deployed application [HERE](https://booky-search-engine-882d5ec5ac27.herokuapp.com)
+
+## Screenshot
+
+![Site expected behavior](./assets/intendedsite.png)
